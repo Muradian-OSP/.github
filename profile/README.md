@@ -1,96 +1,69 @@
-# 🌍 Muradian Open Source Projects (Muradian OSP)
+# 🌍 AbabilX — Open Source Organization
 
-Muradian OSP is a community-driven open-source organization focused on building **clean, useful, and fully open software** for developers and learners worldwide.
+**AbabilX** is a community-driven open-source organization dedicated to building **practical, clean, and impactful software** that helps developers and learners across the global dev community.
 
----
-
-## 🎯 Our Mission
-
-To create high-quality open-source projects that are:
-
-- ✅ Easy to understand
-- ✅ Free to use and modify
-- ✅ Built with care and best practices
-- ✅ Helpful for real-world problems
+We work on **all types of open-source projects** — as long as they solve real problems, improve workflows, or make learning easier for people.
 
 ---
 
-## 🧩 What We Build
+## 🎯 Our Purpose
 
-We build:
+The purpose of **AbabilX** is simple:
 
-- Developer tools
-- Libraries and utilities
-- Learning-friendly projects
-- Experimental and innovative software
-
-All projects are **100% open source** and community-first.
+- ✅ Build open-source software that is genuinely useful  
+- ✅ Support developers with tools, libraries, and learning-friendly projects  
+- ✅ Encourage transparent collaboration and respectful community growth  
+- ✅ Make high-quality software accessible to everyone — free and open  
 
 ---
 
-## 🚀 Current Projects (6 Repositories)
+## 🧩 What We Work On
 
-Based on the current organization repositories:
+AbabilX is open to building and maintaining projects such as:
 
-### ✅ Featured Tools & Apps
+- Developer tools & productivity apps  
+- Libraries, utilities, and frameworks  
+- Beginner-friendly learning projects  
+- Experimental products and innovative ideas  
+- Community resources and documentation  
 
-- **Ababil-Studio**  
-  ⚡ High-performance, Rust-powered open-source API development platform.  
-  A lightweight, privacy-focused, blazing-fast alternative to Postman — built with **React 19**, **Tailwind CSS**, and **Electron**.
-
-- **AbabilX-Studio-Rust** *(Public template)*  
-  ⚡ Ultra-fast, lightweight API testing tool — a modern Postman alternative.  
-  Built with Rust-first performance mindset.
-
-- **Transformate**  
-  🎞️ Free unlimited file converter using **WebAssembly** and **FFmpeg**.
+Our focus is always the same:  
+**Real-world usefulness + Clean implementation + Open collaboration**
 
 ---
 
-### 🌱 Community / Supporting Repositories
+## 🤝 Community First
 
-- **EcoTrackBD**  
-  A TypeScript-based project under development.
+AbabilX welcomes everyone to contribute:
 
-- **ababil**  
-  A Dart-based repository for experiments or supporting modules.
+- Code improvements  
+- Documentation & tutorials  
+- Bug reports & issue discussions  
+- Feature ideas & design suggestions  
 
-- **.github**  
-  Organization-level community files, workflows, and GitHub settings.
-
----
-
-## 🤝 Community & Contributions
-
-We welcome contributions of all kinds:
-
-- Code contributions
-- Documentation improvements
-- Bug reports
-- Feature ideas
-
-Everyone is welcome — **regardless of experience level**.
+No matter your experience level, you’re welcome here. ✅
 
 ---
 
-## 🛡 Open Source Commitment
+## 🛡 Open Source Values
 
-We care about:
+We strongly believe in:
 
-- Transparent development
-- Friendly collaboration
-- Respectful communication
-- Clear licensing
+- Transparency in development  
+- Friendly and respectful communication  
+- Clear project structure & best practices  
+- Long-term maintainability  
+- Open licensing  
 
 ---
 
 ## 📜 License
 
-Unless stated otherwise, projects under Muradian OSP use the **MIT License**.
+Unless a project mentions otherwise, AbabilX projects are released under the **MIT License**.
 
 ---
 
-## 💡 Philosophy
+## 💡 AbabilX Philosophy
 
-> Open source should be simple, honest, and useful.  
-> Muradian OSP exists to help people learn, build, and share—together.
+> Open source should be practical, honest, and helpful.  
+> AbabilX exists to build software that empowers developers to learn, create, and grow — together.
